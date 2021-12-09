@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>EBC PerfectMatch</title>
-        <description>EBC PerfectMatch</description>
+        <description>Most recent updates to EBC PerfectMatch</description>
         <item>
             <title>Version 1.1.6</title>
             <pubDate>Thu, 09 Dec 2021 00:55:54 -0800</pubDate>
