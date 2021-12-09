@@ -8,7 +8,7 @@
             <pubDate>Thu, 09 Dec 2021 00:55:54 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://perfectmatch.cosmicbits.co/EBC-PerfectMatch-1.1.6.html</sparkle:releaseNotesLink>
-            <enclosure sparkle:os="macos" url="https://github.com/Cosmic-Bits/EBC-PerfectMatch-Archive/releases/download/1.1.6/EBC.PerfectMatch.1.1.6.dmg" sparkle:version="1.1.6.2" sparkle:shortVersionString="1.1.6" length="41641145" type="application/octet-stream" sparkle:edSignature="aMuDkn5oi44XBguEvny7Sp/QWBLVjEhtuaeOY7TxOsdnQpAGqeH90goBVErFb5p5ycaOB+ja2qXaDUZn5ceoCQ=="/>
+            <enclosure sparkle:os="macos" url="https://github.com/Cosmic-Bits/EBC-PerfectMatch-Archive/releases/download/1.1.6/EBC-PerfectMatch-1.1.6.dmg" sparkle:version="1.1.6.2" sparkle:shortVersionString="1.1.6" length="41641145" type="application/octet-stream" sparkle:edSignature="aMuDkn5oi44XBguEvny7Sp/QWBLVjEhtuaeOY7TxOsdnQpAGqeH90goBVErFb5p5ycaOB+ja2qXaDUZn5ceoCQ=="/>
         </item>
     </channel>
 </rss>
