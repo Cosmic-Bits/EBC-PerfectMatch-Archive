@@ -18,7 +18,7 @@
 </ul>
 ]]></description>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://perfectmatch.cosmicbits.co/EBC%20PerfectMatch%201.1.6.dmg" sparkle:version="1.1.6.1" sparkle:shortVersionString="1.1.6" length="41642655" type="application/octet-stream" sparkle:edSignature="8Ibzu6z1qSK8cmp+Gx2aSKSSIzXOkutN0eA9MK9rLfY/HhOouVd7ceOXG4oeFd60C/hTxssyGZu3ooYyt0rCBA=="/>
+            <enclosure url="https://github.com/RudyB/EBC-PerfectMatch-Archive/releases/download/1.1.6/EBC.PerfectMatch.1.1.6.dmg" sparkle:version="1.1.6.1" sparkle:shortVersionString="1.1.6" length="41642655" type="application/octet-stream" sparkle:edSignature="8Ibzu6z1qSK8cmp+Gx2aSKSSIzXOkutN0eA9MK9rLfY/HhOouVd7ceOXG4oeFd60C/hTxssyGZu3ooYyt0rCBA=="/>
         </item>
     </channel>
 </rss>
