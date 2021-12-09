@@ -6,28 +6,8 @@
             <title>1.1.6</title>
             <pubDate>Thu, 09 Dec 2021 00:55:54 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://perfectmatch.cosmicbits.co/EBC-PerfectMatch-1.1.6.html</sparkle:releaseNotesLink>
             <enclosure url="https://perfectmatch.cosmicbits.co/EBC-PerfectMatch-1.1.6.dmg" sparkle:version="1.1.6.2" sparkle:shortVersionString="1.1.6" length="41641145" type="application/octet-stream" sparkle:edSignature="aMuDkn5oi44XBguEvny7Sp/QWBLVjEhtuaeOY7TxOsdnQpAGqeH90goBVErFb5p5ycaOB+ja2qXaDUZn5ceoCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://perfectmatch.cosmicbits.co/EBC%20PerfectMatch1.1.6.2-1.1.5.delta" sparkle:version="1.1.6.2" sparkle:shortVersionString="1.1.6" sparkle:deltaFrom="1.1.5" length="100381" type="application/octet-stream" sparkle:edSignature="BvSvKwQO3JKX/FhhuV8fyVKIHMF3LgfIiOU8GrHy3jh0YsfaaOdqQsALbmO5oVwtBFoIpjGJIWgj0iN4fIM2Dg=="/>
-            </sparkle:deltas>
-            <description><![CDATA[<h1 id="ebc-perfectmatch">EBC PerfectMatch</h1>
-<h2 id="version-1-1-6">Version 1.1.6</h2>
-<h3 id="new-features">New Features</h3>
-<ul>
-<li>[UI] Add icon of Axie Class to Axie Card</li>
-<li>[UI] Add total number of breeds to Breeding Simulator tab</li>
-</ul>
-<h3 id="bug-fixes">Bug Fixes</h3>
-<ul>
-<li>[UI] [Windows] Fix UI spacing issues</li>
-</ul>
-]]></description>
-        </item>
-        <item>
-            <title>1.1.5</title>
-            <pubDate>Thu, 09 Dec 2021 01:43:01 -0800</pubDate>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://perfectmatch.cosmicbits.co/EBC%20PerfectMatch%201.1.5.dmg" sparkle:version="1.1.5" sparkle:shortVersionString="1.1.5" length="41642071" type="application/octet-stream" sparkle:edSignature="Xjp4aV7yu7BOGeKXb0z67U3Tb0Jc1uNi5GKwhSRHZArovwBlvfokCXuYPthKdkuZkRjCBUGWkHmbM4wDOJhSDg=="/>
         </item>
     </channel>
 </rss>
